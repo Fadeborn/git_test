@@ -1,1 +1,2 @@
 I putted here some text
+There's text that I can check how useful vs editor for write commit message
